@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Guilherme Nobre Chuman</h1>
+<h1 align="center">Guilherme Nobre Chuman</h1>
 <h3 align="center">Estudante de Engenharia de Software na UTFPR, atualmente fazendo o meu melhor para aprimorar minhas skills em web, tanto frontend quanto backend, visando aprender todo o ciclo de vida de um software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chumangui&label=Profile%20views&color=0e75b6&style=flat" alt="chumangui" /> </p>
