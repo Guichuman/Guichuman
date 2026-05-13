@@ -1,5 +1,5 @@
 <h1 align="center">Guilherme Nobre Chuman</h1>
-<h3 align="center">Desenvolvedor Backend Júnior na Forma Turismo e estudante de Engenharia de Software na UTFPR. Foco em construir APIs robustas e escaláveis com NestJS, TypeScript e PostgreSQL, aplicando boas práticas como Clean Architecture, DDD e testes automatizados.</h3>
+<h3 align="center">Desenvolvedor Backend na Forma Turismo e estudante de Engenharia de Software na UTFPR. Foco em construir APIs robustas e escaláveis com NestJS, TypeScript e PostgreSQL, aplicando boas práticas como Clean Architecture, DDD e testes automatizados.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chumangui&label=Profile%20views&color=0e75b6&style=flat" alt="chumangui" /> </p>
 
 🔭 Atualmente trabalho como Desenvolvedor Backend Júnior na Forma Turismo, construindo e mantendo APIs REST com NestJS/TypeScript para reservas, pagamentos e pedidos
